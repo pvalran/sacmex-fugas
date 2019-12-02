@@ -1,0 +1,3 @@
+var mainMap;
+var lyrMain;
+
